@@ -5,7 +5,7 @@
 	<groupId>com.bandi.jfrog</groupId>
 	<artifactId>Bandi-Xray-verify</artifactId>
 	<version>3.0.0</version>
-	<packaging>pom</packaging>
+	<packaging>war</packaging>
 	<name>xraycache</name>
 	<description>xraycache</description>
 	<build>
